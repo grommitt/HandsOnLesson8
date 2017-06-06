@@ -1,0 +1,9 @@
+c:\users\gmshau\documents\visual studio 2017\Projects\HandsOn\HandsOn\bin\Debug\netcoreapp1.1\HandsOn.deps.json
+c:\users\gmshau\documents\visual studio 2017\Projects\HandsOn\HandsOn\bin\Debug\netcoreapp1.1\HandsOn.runtimeconfig.json
+c:\users\gmshau\documents\visual studio 2017\Projects\HandsOn\HandsOn\bin\Debug\netcoreapp1.1\HandsOn.runtimeconfig.dev.json
+c:\users\gmshau\documents\visual studio 2017\Projects\HandsOn\HandsOn\bin\Debug\netcoreapp1.1\HandsOn.dll
+c:\users\gmshau\documents\visual studio 2017\Projects\HandsOn\HandsOn\bin\Debug\netcoreapp1.1\HandsOn.pdb
+c:\users\gmshau\documents\visual studio 2017\Projects\HandsOn\HandsOn\obj\Debug\netcoreapp1.1\HandsOn.csprojResolveAssemblyReference.cache
+c:\users\gmshau\documents\visual studio 2017\Projects\HandsOn\HandsOn\obj\Debug\netcoreapp1.1\HandsOn.AssemblyInfo.cs
+c:\users\gmshau\documents\visual studio 2017\Projects\HandsOn\HandsOn\obj\Debug\netcoreapp1.1\HandsOn.dll
+c:\users\gmshau\documents\visual studio 2017\Projects\HandsOn\HandsOn\obj\Debug\netcoreapp1.1\HandsOn.pdb
